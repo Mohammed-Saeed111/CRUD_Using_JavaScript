@@ -1,7 +1,23 @@
-# CRUD-Operations
-Create a CRUD Application using HTML CSS Bootstrap5 and JavaScript Local Storage.  
+# 📝 CRUD Operation Using JavaScript
 
-## JavaScript Local Storage Project.
+🚀 A simple CRUD (Create, Read, Update, Delete) web application built with **JavaScript, HTML, CSS, and Bootstrap**.
+
+---
+
+## ⚙️ **Features**  
+✅ Create new user profiles.  
+📋 Read and view user information.  
+✏️ Update existing user data.  
+🗑️ Delete user records.  
+💾 Data stored locally using Local Storage.
+
+---
+
+## 🧩 **Technologies Used**  
+- 🌐 **HTML5**: Structure of the application.  
+- 🎨 **CSS3**: Styling and layout design.  
+- 💻 **JavaScript**: CRUD functionality and DOM manipulation.  
+- 🅱️ **Bootstrap 5**: Responsive design and UI components.
 
 <br>
 
