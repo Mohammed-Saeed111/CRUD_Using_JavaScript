@@ -2,7 +2,7 @@
 🌍 Live Demo: https://mohammed-saeed111.github.io/CRUD_Using_JavaScript/
 <hr>
 
-![E-Commerce Clothes](CRUD_OPERATION (2).png)
+![E-Commerce Clothes](images/CRUD_OPERATION_2.png)
 
 
 
