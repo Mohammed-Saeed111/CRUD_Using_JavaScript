@@ -2,7 +2,7 @@
 🌍 Live Demo: https://mohammed-saeed111.github.io/CRUD_Using_JavaScript/
 <hr>
 
-![CRUD Operation](image/CRUD_OPERATION (2).png)
+![CRUD Operation](image/crud.png)
 
 🚀 A simple CRUD (Create, Read, Update, Delete) web application built with **JavaScript, HTML, CSS, and Bootstrap**.
 
