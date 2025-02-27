@@ -3,11 +3,6 @@
 <hr>
 
 ![E-Commerce Clothes](images/CRUD_OPERATION_2.png)
-
-
-
-
-
 🚀 A simple CRUD (Create, Read, Update, Delete) web application built with **JavaScript, HTML, CSS, and Bootstrap**.
 
 ---
