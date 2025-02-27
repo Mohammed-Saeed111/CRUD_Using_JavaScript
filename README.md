@@ -2,7 +2,8 @@
 🌍 Live Demo: https://mohammed-saeed111.github.io/CRUD_Using_JavaScript/
 <hr>
 
-![E-Commerce Clothes](images/CRUD_OPERATION_2.png)
+![E-Commerce Clothes](image/CRUD_OPERATION_2.png)
+
 🚀 A simple CRUD (Create, Read, Update, Delete) web application built with **JavaScript, HTML, CSS, and Bootstrap**.
 
 ---
